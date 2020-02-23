@@ -1,0 +1,1 @@
+<?php header('LOCATION:model/pages/index.php');
